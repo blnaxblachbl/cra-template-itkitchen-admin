@@ -1,6 +1,6 @@
 {
   "name": "cra-template-itkitchen-admin",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "keywords": [
     "react",
     "create-react-app",
@@ -9,6 +9,11 @@
     "admin",
     "dashboard"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blnaxblachbl/cra-template-itkitchen-admin",
+    "directory": "packages/cra-template"
+  },
   "description": "ITKitchen admin dashboard.",
   "license": "MIT",
   "engines": {
