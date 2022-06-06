@@ -1,0 +1,21 @@
+{
+    "package": {
+        "dependencies": {
+            "styled-components": "*",
+            "react-router-dom": "*",
+            "graphql": "*",
+            "moment": "*",
+            "@ant-design/icons": "*",
+            "@apollo/client": "*",
+            "antd": "*",
+            "apollo-upload-client": "*"
+        },
+        "eslintConfig": {
+            "extends": [
+                "react-app",
+                "react-app/jest"
+            ]
+        },
+        "proxy": "http://localhost:4000"
+    }
+}
